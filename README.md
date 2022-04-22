@@ -39,10 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 https://imgur.com/a/eHJAEve
-![Alt Text](https://imgur.com/a/eHJAEve)
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+![](https://imgur.com/a/eHJAEve)
 
 ## Reflection Questions
 
